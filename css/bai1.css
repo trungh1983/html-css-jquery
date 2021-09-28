@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.motkhoi h3 {
+    background-color: lightgray;
+    color: white;
+    padding: 10px 15px;
+}
+
+.motkhoi h3:hover {
+    background-color: gold;
+}
+
+.motkhoi h3.color-blue {
+    background-color: blue;
+}
+
+.hieuung {
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.container {
+    /* width: 40%; */
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+
+.nd-motkhoi {
+    padding: 10px;
+    border: 1px solid #c2c2c2;
+}
+

@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.list__link {
+  color: red;
+  text-decoration: none; }
+
+nav {
+  margin: 60px;
+  background-color: #aaa111; }
+
+.list {
+  margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */
